@@ -131,6 +131,10 @@ void Screen1View::handleClickEvent(const ClickEvent& evt);
  */
 void Screen1View::handleTickEvent();
 ```
+PHÁT SINH
+--
+- Cấu hình đúng như này để tránh xung đột giữa USB_HID và TouchGFX
+![image](https://github.com/user-attachments/assets/9f3a2fa0-cd99-4da2-84b9-8f2add77a92c)
 
 KẾT QUẢ
 ---
