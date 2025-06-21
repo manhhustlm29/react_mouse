@@ -29,7 +29,7 @@ TÁC GIẢ
     <td>Lê Minh Mạnh</td>
     <td>20225360</td>
     <td>
-      Xử lý sự kiện gửi vị trí điểm chạm và di chuyển tương đối vị trí điểm chạm đó trên màn hình máy tính
+      Xử lý sự kiện chạm, gửi vị trí điểm chạm và di chuyển tương đối vị trí điểm chạm đó trên màn hình máy tính
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ TÁC GIẢ
     <td>Dương Quang Khải</td>
     <td>20225340</td>
     <td>
-      Vẽ hình tròn và tạo hiệu ứng thu nhỏ dần về tâm tại vị trí điểm chạm trên màn hình
+      Xử lí sự kiện chạm, vẽ hình tròn và tạo hiệu ứng thu nhỏ dần về tâm tại vị trí điểm chạm trên màn hình
     </td>
   </tr>
 </table>
