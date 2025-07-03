@@ -138,4 +138,4 @@ PHÁT SINH
 
 KẾT QUẢ
 ---
- [![Watch the video](https://www.youtube.com/watch?v=ZsGaskzrDWw)
+[![Watch the video](https://img.youtube.com/vi/ZsGaskzrDWw/hqdefault.jpg)](https://www.youtube.com/watch?v=ZsGaskzrDWw)
